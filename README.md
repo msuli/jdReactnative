@@ -1,0 +1,2 @@
+# jdReactnative
+这是一个学习react-native而写的模仿京东首页和其他一些页面的app
